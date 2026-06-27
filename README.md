@@ -30,7 +30,6 @@ I build production-grade web and desktop applications end-to-end — from UI to 
 
 **Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-orange?style=flat)
 
 ---
 
