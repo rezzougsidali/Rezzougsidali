@@ -61,4 +61,4 @@ I build production-grade web and desktop applications end-to-end — from UI to 
 
 ---
 
-*Available for remote work · Arabic 🇩🇿 · French 🇫🇷 · English 🇬🇧 (TOEFL certified)*
+*Available for remote work · Arabic 🇩🇿 · French 🇫🇷 · English 🇬🇧*
