@@ -38,7 +38,7 @@ I build production-grade web and desktop applications end-to-end — from UI to 
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [dental-clinic-booking-frontend](https://github.com/rezzougsidali/dental-clinic-booking-frontend) | Online booking system + admin dashboard for a dental practice | React, Node.js, MongoDB | [cabinet-djoudi.netlify.app](https://cabinet-djoudi.netlify.app) |
+| [dental-clinic-booking-frontend](https://github.com/rezzougsidali/dental-clinic-booking-frontend) | Online booking system + admin dashboard for a dental practice | React, Node.js, MongoDB | — |
 | [dental-clinic-booking-backend](https://github.com/rezzougsidali/dental-clinic-booking-backend) | REST API with JWT auth, email notifications, appointment scheduling | Node.js, Express, MongoDB | — |
 | [gynecology-clinic-desktop-app](https://github.com/rezzougsidali/gynecology-clinic-desktop-app) | Windows desktop app for patient records & ultrasound report generation | C#, WinForms, SQLite | — |
 | [VinteDZ](https://github.com/rezzougsidali/VinteDZ) | Vinted-style second-hand marketplace for Algeria | React, Node.js, MongoDB | — |
@@ -58,7 +58,7 @@ I build production-grade web and desktop applications end-to-end — from UI to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid-alirezzoug)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rezzougsidali7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://cabinet-djoudi.netlify.app)
+
 
 ---
 
