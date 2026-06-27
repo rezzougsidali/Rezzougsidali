@@ -41,8 +41,7 @@ I build production-grade web and desktop applications end-to-end — from UI to 
 | [dental-clinic-booking-frontend](https://github.com/rezzougsidali/dental-clinic-booking-frontend) | Online booking system + admin dashboard for a dental practice | React, Node.js, MongoDB | — |
 | [dental-clinic-booking-backend](https://github.com/rezzougsidali/dental-clinic-booking-backend) | REST API with JWT auth, email notifications, appointment scheduling | Node.js, Express, MongoDB | — |
 | [gynecology-clinic-desktop-app](https://github.com/rezzougsidali/gynecology-clinic-desktop-app) | Windows desktop app for patient records & ultrasound report generation | C#, WinForms, SQLite | — |
-| [VinteDZ](https://github.com/rezzougsidali/VinteDZ) | Vinted-style second-hand marketplace for Algeria | React, Node.js, MongoDB | — |
-| [medical-lab-booking](https://github.com/rezzougsidali/medical-lab-booking) | Full-stack lab appointment booking platform | React, Node.js, MongoDB | — |
+
 
 ---
 
